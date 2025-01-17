@@ -18,7 +18,6 @@ idna==3.3
 lxml==4.8.0
 multidict==6.0.2
 pip==20.3.4
-pkg-resources
 pyaes==1.6.1
 pyasn1==0.4.8
 pycryptodomex==3.14.1
